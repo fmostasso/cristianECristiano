@@ -5,7 +5,7 @@ html, body {
 
 
 .capa {
-	background: url('../img/capa.png') center 0 no-repeat;
+	background: url('../img/capa.jpg') center 0 no-repeat;
 	background-size: cover;
 	transform: scale(1.5);
 	height: 710px;
@@ -47,6 +47,10 @@ html, body {
 
 #nav ul li a:hover {
 	font-weight: bold;
+	color: #54c4cd;
+}
+
+#nav ul li .active {
 	color: #54c4cd;
 }
 
