@@ -5,7 +5,7 @@ html, body {
 
 
 .capa {
-	background: url('../img/capa3.jpg') center 0 no-repeat;
+	background: url('../img/capa.jpg') center 0 no-repeat;
 	background-size: cover;
 	transform: scale(1.5);
 	height: 710px;
