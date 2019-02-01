@@ -58,6 +58,15 @@ html, body {
 	margin-top: 50px;
 }
 
+#noticias figcaption {
+	color: #3c3c3c;
+	background-color: #eeeeee;
+	padding: 20px 90px 20px 18px;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
 #banner {
 	background-color: #d55630;
 }
@@ -84,6 +93,11 @@ html, body {
 	text-transform: uppercase;
 	color: #06b9c4;
 	margin-left: -10px;
+	font-size: 24px;
+}
+
+#redes p {
+	font-size: 18px;
 }
 
 footer {
@@ -96,12 +110,14 @@ footer h3 {
 	margin-top: 75px;
 	color: #0ba1aa;
 	text-transform: uppercase;
+	font-size: 24px;
 }
 
 footer p {
 	color: #989898;
 	padding-bottom: 90px;
 	padding-left: 20px;
+	font-size: 18px;
 }
 
 #parceiros img {
